@@ -1,0 +1,9 @@
+
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(´ðçÖ8À™ˆÏ’0
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(–’Ñ½ýÿÿÿÿ8Á™ˆÏ’0
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¬ùØ€øÿÿÿÿ8Â™ˆÏ’0
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(½ðŸÿ8Â™ˆÏ’0
+gcsharpsquid:S2223"CChange the visibility of 'JwtKey' or make it 'const' or 'readonly'.(´ðçÖ8Ã™ˆÏ’0
+pcsharpsquid:S2223"GChange the visibility of 'ApiKeyName' or make it 'const' or 'readonly'.(–’Ñ½ýÿÿÿÿ8Ã™ˆÏ’0
+lcsharpsquid:S2223"CChange the visibility of 'ApiKey' or make it 'const' or 'readonly'.(¬ùØ€øÿÿÿÿ8Ä™ˆÏ’0
+ecsharpsquid:S2223"AChange the visibility of 'Smtp' or make it 'const' or 'readonly'.(½ðŸÿ8Å™ˆÏ’0
